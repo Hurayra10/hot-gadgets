@@ -1,0 +1,33 @@
+button{
+    background-color: black;
+    color: blanchedalmond;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+.first-background{
+    background-image: url(hot-gadgets/bg-2.png);
+    background-repeat: no-repeat;
+     background-position: left;
+}
+.car-background{
+    background-image: url(hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+}
+
+/* -------------SmartPhones----------------- */
+.see-all{
+    color: goldenrod;
+   
+}
+.container{
+    margin-top:100px;
+}
+
+/* -------------Categories----------------- */
+
+.cata-text{
+
+    margin-bottom: 100px;
+
+}
